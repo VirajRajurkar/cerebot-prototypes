@@ -1,3 +1,8 @@
+"""
+Tutorial code for using OpenAI's GPT-3.5 Turbo model in Cerebot!
+Author: Viraj
+"""
+
 import openai
 from openai import OpenAI
 
