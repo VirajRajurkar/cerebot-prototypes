@@ -7,8 +7,6 @@ Author: Viraj
 import openai
 from openai import OpenAI
 
-openai.api_key = "..." #replace with your OpenAI API key. THIS IS CONFIDENTIAL AND SHOULD NOT BE SHARED PUBLICLY
-
 client = OpenAI(api_key=openai.api_key) #create an OpenAI client with the provided API key
 
 # Cerebot's custom personality and behavior
